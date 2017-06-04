@@ -1,0 +1,3 @@
+rootProject.name = 'tacosCity'
+
+include ':app'
